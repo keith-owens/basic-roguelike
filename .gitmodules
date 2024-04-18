@@ -1,0 +1,6 @@
+[submodule "dependencies/raylib"]
+	path = dependencies/raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "dependencies/flecs"]
+	path = dependencies/flecs
+	url = https://github.com/SanderMertens/flecs.git
