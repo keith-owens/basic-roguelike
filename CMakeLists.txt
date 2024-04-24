@@ -6,6 +6,7 @@ add_subdirectory(dependencies/raylib)
 add_subdirectory(dependencies/flecs)
 
 add_executable(basic-roguelike
+    src/systems/core.cpp
     src/main.cpp
 )
 
